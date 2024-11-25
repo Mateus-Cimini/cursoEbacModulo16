@@ -1,0 +1,15 @@
+{
+  "name": "016-gulp",
+  "version": "1.0.0",
+  "description": "Modulo de Gulp Ebac",
+  "main": "index.js",
+  "scripts": {
+    "gulp":"gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mateus Cimini",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^5.0.0"
+  }
+}
